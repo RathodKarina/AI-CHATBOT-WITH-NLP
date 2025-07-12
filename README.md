@@ -18,3 +18,4 @@ reflections handles simple "I/you" reversals, e.g., "I am" ↔ "you are" (option
 Saves the file as CodTech_Certificate.pdf.Asks for the user’s name.Starts the chatbot.When the chatbot ends (user types exit, etc.), generates the certificate using the given name.
 
 output :
+<img width="902" height="518" alt="Image" src="https://github.com/user-attachments/assets/562d6c04-d7cb-4c24-8b71-6c8d196c33d3" />
